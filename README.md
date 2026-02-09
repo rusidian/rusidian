@@ -12,6 +12,27 @@ Python 프로그래밍과 알고리즘 문제 해결 경험을 바탕으로 데�
 
 ---
 
+## Tech Stack
+
+### Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Analysis
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### AI / NLP
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
+
+### App / Service
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
 ## Education
 
 - B.S in Information Convergence  
